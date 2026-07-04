@@ -1,0 +1,9 @@
+DATABASE_URL=""
+VITE_MAPBOX_API_KEY=""
+
+# Cisco Webex (Engage Layer)
+WEBEX_BOT_TOKEN=""
+WEBEX_ROOM_ID=""
+
+# Cisco Meraki (Connect Layer) - DevNet Always-On Sandbox
+MERAKI_API_KEY="YOUR_API_KEY"
